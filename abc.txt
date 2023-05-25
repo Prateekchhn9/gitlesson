@@ -1,3 +1,3 @@
-this is a text file
-this is edit no 2 with a sav
-this is the thirt edit for pull requeste
+this is the thirt edit for pull request
+this is 4th edit but from feature1 to master
+adding one more line as per comment
